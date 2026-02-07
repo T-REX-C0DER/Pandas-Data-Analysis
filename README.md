@@ -27,40 +27,41 @@ Whether you're a **student**, **data analyst**, or **AI/ML learner**, this repos
 pandas-from-scratch/
 │
 ├── 01_introduction/
-│ ├── what_is_pandas.ipynb
-│ └── installation_setup.ipynb
+│   ├── what_is_pandas.ipynb
+│   └── installation_setup.ipynb
 │
 ├── 02_series/
-│ ├── creating_series.ipynb
-│ ├── series_operations.ipynb
+│   ├── creating_series.ipynb
+│   ├── series_operations.ipynb
 │
 ├── 03_dataframe_basics/
-│ ├── creating_dataframe.ipynb
-│ ├── dataframe_structure.ipynb
+│   ├── creating_dataframe.ipynb
+│   ├── dataframe_structure.ipynb
 │
 ├── 04_selection_indexing/
-│ ├── loc_iloc.ipynb
-│ ├── column_row_selection.ipynb
+│   ├── loc_iloc.ipynb
+│   ├── column_row_selection.ipynb
 │
 ├── 05_update_dataframe/
-│ ├── updating_rows.ipynb
-│ ├── updating_columns.ipynb
+│   ├── updating_rows.ipynb
+│   ├── updating_columns.ipynb
 │
 ├── 06_add_remove_data/
-│ ├── add_rows_columns.ipynb
-│ ├── remove_rows_columns.ipynb
+│   ├── add_rows_columns.ipynb
+│   ├── remove_rows_columns.ipynb
 │
 ├── 07_missing_data/
-│ ├── handling_null_values.ipynb
+│   ├── handling_null_values.ipynb
 │
 ├── 08_data_analysis_examples/
-│ ├── real_world_examples.ipynb
+│   ├── real_world_examples.ipynb
 │
 ├── datasets/
-│ └── sample_data.csv
+│   └── sample_data.csv
 │
 ├── requirements.txt
 └── README.md
+─ README.md
 
 ---
 
